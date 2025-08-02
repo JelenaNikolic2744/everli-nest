@@ -1,0 +1,174 @@
+[
+  {
+    "personOrCase": "CELESTE",
+    "phone": "+376 690197049",
+    "isValidCase": [
+      {
+        "possible_states": null,
+        "warning_message": null,
+        "field_offices": ["phoenix"],
+        "details": "<p>On June 14, 2013, Adrienne Celeste Salinas, a 19-year-old woman from Tempe, Arizona, attended a birthday party at her residence for a friend.</p>\r\n<p>In the early morning hours of June 15, 2013, Salinas left the party and then returned, speaking briefly with a roommate. At about 4:00 a.m., Salinas was seen leaving the party again. A few minutes later, her vehicle was involved in a single-car accident a short distance from her residence. Salinas returned to her apartment unseen, changed clothes, and called a cab.</p>\r\n<p>At around 5:00 a.m., Salinas sent a text message to her boyfriend stating she was going to his residence. Salinas then spoke with the cab driver, confirming that he was en route to pick her up at a convenience store in close proximity to her residence. Shortly thereafter the cab driver arrived and was unable to locate Salinas or reach her by phone.</p>\r\n<p>Subsequent attempts to contact Salinas' phone went directly to voice mail. Salinas was reported missing on June 16, 2013 (Father's Day), after she was unable to be located by family and friends.</p>\r\n<p>On August 6, 2013, two weeks after a substantial storm and flooding of the area, Salinas' remains were located in a desert wash basin behind a residence in Apache Junction, Arizona.</p>",
+        "locations": null,
+        "age_range": null,
+        "path": "/wanted/seeking-info/adrienne-celeste-salinas",
+        "occupations": null,
+        "eyes_raw": "Brown",
+        "scars_and_marks": "Salinas had a small tattoo of a tribal sun on her neck. She also had a lip piercing with a clear stone, and a four-inch scar on her back.",
+        "weight": "100 to 110 pounds",
+        "poster_classification": "information",
+        "possible_countries": null,
+        "eyes": "brown",
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/adrienne-celeste-salinas-spanish.pdf/@@download/file/adrienne-celeste-salinas.Spanish.pdf",
+            "name": "EN ESPAOL"
+          }
+        ],
+        "modified": "2025-06-18T13:34:17+00:00",
+        "age_min": null,
+        "caution": null,
+        "description": "Suspicious Death\r\nTempe, Arizona\r\nJune 15, 2013",
+        "person_classification": "Victim",
+        "hair": "black",
+        "reward_max": 0,
+        "title": "ADRIENNE CELESTE SALINAS",
+        "coordinates": [],
+        "place_of_birth": "Arizona",
+        "languages": null,
+        "race_raw": "White (Hispanic)",
+        "reward_min": 0,
+        "complexion": null,
+        "aliases": null,
+        "url": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas",
+        "ncic": null,
+        "height_min": 65,
+        "race": "hispanic",
+        "publication": "2015-06-05T07:00:00",
+        "weight_max": 110,
+        "subjects": ["Seeking Information"],
+        "images": [
+          {
+            "large": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/@@images/image/large",
+            "caption": null,
+            "original": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/@@images/image",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/@@images/image/thumb"
+          },
+          {
+            "large": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-3.jpg/@@images/image/large",
+            "caption": "Photograph taken in 2013",
+            "original": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-3.jpg",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-3.jpg/@@images/image/thumb"
+          },
+          {
+            "large": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-tattoo.jpg/@@images/image/large",
+            "caption": "Tribal sun tattoo",
+            "original": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-tattoo.jpg",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/adrienne-celeste-salinas/salinas-tattoo.jpg/@@images/image/thumb"
+          }
+        ],
+        "suspects": null,
+        "remarks": "<p>Salinas drove a white, 2002 Mercury Sable (which has been recovered).</p>",
+        "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the identification, arrest, and conviction of the person(s) responsible for the suspicious death of Adrienne Celeste Salinas.",
+        "nationality": null,
+        "legat_names": null,
+        "dates_of_birth_used": ["November 5, 1993"],
+        "status": "na",
+        "build": null,
+        "weight_min": 100,
+        "hair_raw": "Black",
+        "uid": "52edbfb5-9f95-40e3-8af5-d1038f2fce38",
+        "sex": "Female",
+        "height_max": 65,
+        "additional_information": null,
+        "age_max": null,
+        "pathId": "https://api.fbi.gov/@wanted-person/52edbfb5-9f95-40e3-8af5-d1038f2fce38"
+      },
+      {
+        "possible_states": null,
+        "warning_message": null,
+        "field_offices": null,
+        "details": "<p>In June of 2021, Celeste Doghmi was reportedly last seen by her ex-boyfriend, leaving their apartment on 85 Academy Street in Auburn, Maine, and has not been seen or heard from since. She had recently given birth to a child, was in the process of enrolling for college, and was last active on social media on August 2, 2021. Her disappearance went unreported until 2023, when her ex-boyfriend was arrested for domestic abuse and the Maine Office of Child and Family Services began to search for Doghmi. The Maine State Police Department is asking for assistance in locating Doghmi or obtaining details regarding her disappearance.</p>",
+        "locations": null,
+        "age_range": "27 years old (at time of disappearance)",
+        "path": "/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine",
+        "occupations": null,
+        "eyes_raw": "Brown",
+        "scars_and_marks": "Doghmi has a large tattoo on her right leg of a dream catcher with feathers, and a tattoo of the word  “John” on her left breast.",
+        "weight": "110 pounds",
+        "poster_classification": "default",
+        "possible_countries": null,
+        "eyes": "brown",
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/doghmi.pdf",
+            "name": "English"
+          }
+        ],
+        "modified": "2025-07-02T12:35:52+00:00",
+        "age_min": 27,
+        "caution": null,
+        "description": "Auburn, Maine\r\nJune 1, 2021",
+        "person_classification": "Main",
+        "hair": "brown",
+        "reward_max": 0,
+        "title": "CELESTE DIANA DOGHMI - AUBURN, MAINE",
+        "coordinates": [],
+        "place_of_birth": null,
+        "languages": null,
+        "race_raw": null,
+        "reward_min": 0,
+        "complexion": null,
+        "aliases": null,
+        "url": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine",
+        "ncic": null,
+        "height_min": 62,
+        "race": null,
+        "publication": "2025-07-02T07:26:00",
+        "weight_max": 110,
+        "subjects": ["ViCAP Missing Persons"],
+        "images": [
+          {
+            "large": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/@@images/image/large",
+            "caption": null,
+            "original": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/@@images/image",
+            "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/@@images/image/thumb"
+          },
+          {
+            "large": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/doghmi2.png/@@images/image/large",
+            "caption": "",
+            "original": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/doghmi2.png",
+            "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/doghmi2.png/@@images/image/thumb"
+          },
+          {
+            "large": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/doghmi3.png/@@images/image/large",
+            "caption": "",
+            "original": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/doghmi3.png",
+            "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/celeste-diana-doghmi---auburn-maine/doghmi3.png/@@images/image/thumb"
+          }
+        ],
+        "suspects": null,
+        "remarks": "<p>Doghmi has ear piercings.</p>",
+        "reward_text": null,
+        "nationality": null,
+        "legat_names": null,
+        "dates_of_birth_used": null,
+        "status": "na",
+        "build": null,
+        "weight_min": 110,
+        "hair_raw": "Brown, longer than shoulder length",
+        "uid": "5126982a11c6494fa53fb44d54c56206",
+        "sex": "Female",
+        "height_max": 62,
+        "additional_information": null,
+        "age_max": 27,
+        "pathId": "https://api.fbi.gov/@wanted-person/5126982a11c6494fa53fb44d54c56206"
+      }
+    ],
+    "country": "AD",
+    "date": "30. 7. 2025."
+  }
+]

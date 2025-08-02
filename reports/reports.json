@@ -1,0 +1,26 @@
+[
+  {
+    "personOrCase": "ANDRES FELIPE PINEDA MOGOLLON",
+    "phone": "+12513159160",
+    "isValidCase": true,
+    "country": "US",
+    "ipAddress": "::1",
+    "date": "1. 8. 2025."
+  },
+  {
+    "personOrCase": "ANDRES FELIPE",
+    "phone": "+12513159160",
+    "isValidCase": true,
+    "country": "US",
+    "ipAddress": "::1",
+    "date": "1. 8. 2025."
+  },
+  {
+    "personOrCase": "CELESTE",
+    "phone": "+12513159160",
+    "isValidCase": true,
+    "country": "US",
+    "ipAddress": "::1",
+    "date": "1. 8. 2025."
+  }
+]
